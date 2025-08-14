@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Shubham 👋
 
-<!--
-**skyrabbit4/skyrabbit4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer. I build with **.NET**, **Angular**, and **JavaScript**.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on: [theodoc](https://github.com/skyrabbit4/theodoc)
+- 🌱 Learning: Raycast extensions (TypeScript)
+- 👯 Open to collaborate on: .NET / Angular
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Latest OSS
+- **Raycast – 8 Ball extension**: added “Default action on Enter” (Nothing / Copy / Paste)  
+  PR: https://github.com/raycast/extensions/pull/20947
+
+## Demo (8 Ball: Nothing / Copy / Paste)
+![8 Ball demo](assets/8ball-demo.gif)
+
+## 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/shubham-kaushik-0040a599/)
