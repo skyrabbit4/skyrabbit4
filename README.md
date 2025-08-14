@@ -3,12 +3,12 @@
 Software Developer — **.NET**, **Angular**, **JavaScript**. Exploring **TypeScript**, **Node.js**, **Raycast**.
 
 <p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white">
-  <img alt="Raycast" src="https://img.shields.io/badge/Raycast-FF6363?logo=raycast&logoColor=white">
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white">
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white">
+  <img alt="Raycast" src="https://img.shields.io/badge/Raycast-FF6363?logo=raycast&logoColor=white">
   <a href="https://www.linkedin.com/in/shubham-kaushik-0040a599/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
   </a>
