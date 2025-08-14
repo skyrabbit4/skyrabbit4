@@ -1,7 +1,7 @@
 # Hi, I'm Shubham 👋
 
 Software Developer — **.NET**, **Angular**, **JavaScript**. Exploring **TypeScript**, **Node.js**, **Raycast**.  
-💼 Developer @ **[Boeing](https://www.boeing.com/)** *(opinions are my own)*
+💼 Developer @ **[Boeing](https://www.boeing.com/)**
 
 <p>
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white">
