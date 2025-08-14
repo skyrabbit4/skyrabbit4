@@ -1,6 +1,6 @@
 # Hi, I'm Shubham 👋
 
-Software Developer. I build with **.NET**, **Angular**, and **JavaScript**.
+Software Developer @Boeing. I build with **.NET**, **Angular**, and **JavaScript**.
 
 - 🔭 Currently working on: [theodoc](https://github.com/skyrabbit4/theodoc)
 - 🌱 Learning: Raycast extensions (TypeScript)
