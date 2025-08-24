@@ -4,11 +4,11 @@
 
 ### 🚀 Software Developer | 💼 Boeing | 🌟 Open Source Enthusiast
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=skyrabbit4&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
+<p>
   <i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i>
 </p>
 
@@ -20,23 +20,27 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **Background & Passion** 🎯
-- 💼 Software Developer at **Boeing**, working on enterprise-level applications
-- 🌱 Passionate about creating efficient, scalable solutions
-- 🎓 Continuous learner exploring modern web technologies
-- ⚡ Love contributing to open source projects
-- 🎮 Gaming enthusiast and tech explorer in free time
+<ul>
+  <li>💼 Software Developer at <b>Boeing</b>, working on enterprise-level applications</li>
+  <li>🌱 Passionate about creating efficient, scalable solutions</li>
+  <li>🎓 Continuous learner exploring modern web technologies</li>
+  <li>⚡ Love contributing to open source projects</li>
+  <li>🎮 Gaming enthusiast and tech explorer in free time</li>
+</ul>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 **Current Focus** 🔍
-- 🔥 Building robust .NET applications
-- 🅰️ Developing dynamic Angular frontends
-- 🎯 Contributing to Raycast extensions
-- 📚 Learning cloud technologies and DevOps
+<ul>
+  <li>🔥 Building robust .NET applications</li>
+  <li>🅰️ Developing dynamic Angular frontends</li>
+  <li>🎯 Contributing to Raycast extensions</li>
+  <li>📚 Learning cloud technologies and DevOps</li>
+</ul>
 
 </td>
 </tr>
@@ -52,33 +56,33 @@
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="25%" valign="top">
 <strong>Frontend</strong><br>
-<img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"><br>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><br>
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"><br>
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><br>
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </td>
-<td align="center" width="25%">
+<td align="center" width="25%" valign="top">
 <strong>Backend</strong><br>
-<img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-<img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"><br>
+<img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"><br>
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"><br>
 <img alt="API" src="https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge&logo=api&logoColor=white">
 </td>
-<td align="center" width="25%">
+<td align="center" width="25%" valign="top">
 <strong>Database</strong><br>
-<img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"><br>
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><br>
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </td>
-<td align="center" width="25%">
+<td align="center" width="25%" valign="top">
 <strong>Tools & DevOps</strong><br>
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white">
-<img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"><br>
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"><br>
+<img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"><br>
+<img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"><br>
 <img alt="Raycast" src="https://img.shields.io/badge/Raycast-FF6363?style=for-the-badge&logo=raycast&logoColor=white">
 </td>
 </tr>
@@ -93,23 +97,25 @@
 <div align="center">
 
 ### ✈️ Boeing - Software Developer
-*Enterprise Application Development*
+<i>Enterprise Application Development</i>
 
 </div>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **Key Responsibilities** 💼
-- 🔧 Developing and maintaining enterprise-level applications
-- 🌐 Building scalable web solutions using .NET and Angular
-- 📊 Working with large datasets and complex business logic
-- 🤝 Collaborating with cross-functional teams
-- 🔍 Code reviews and quality assurance
+<ul>
+  <li>🔧 Developing and maintaining enterprise-level applications</li>
+  <li>🌐 Building scalable web solutions using .NET and Angular</li>
+  <li>📊 Working with large datasets and complex business logic</li>
+  <li>🤝 Collaborating with cross-functional teams</li>
+  <li>🔍 Code reviews and quality assurance</li>
+</ul>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 **Achievements & Impact** 🏆
 
@@ -152,34 +158,40 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **🎱 Raycast – 8 Ball Extension**
-- 📝 **Description**: Interactive 8-ball decision maker for Raycast
-- 🛠️ **Tech Stack**: TypeScript, React, Raycast API
-- 📊 **Status**: 🟢 Active Development
-- 🔗 **Links**: [PR #20947](https://github.com/raycast/extensions/pull/20947)
-- ✨ **Features**: Default action on Enter, Copy/Paste functionality
-
-**🏃‍♂️ Currently Working On:**
-- 🎨 Small UX polish and improvements
-- 📚 History tracking features
-- ⏱️ Timing optimizations and tweaks
+<ul>
+  <li>📝 <b>Description</b>: Interactive 8-ball decision maker for Raycast</li>
+  <li>🛠️ <b>Tech Stack</b>: TypeScript, React, Raycast API</li>
+  <li>📊 <b>Status</b>: 🟢 Active Development</li>
+  <li>🔗 <b>Links</b>: <a href="https://github.com/raycast/extensions/pull/20947">PR #20947</a></li>
+  <li>✨ <b>Features</b>: Default action on Enter, Copy/Paste functionality</li>
+</ul>
+<b>🏃‍♂️ Currently Working On:</b>
+<ul>
+  <li>🎨 Small UX polish and improvements</li>
+  <li>📚 History tracking features</li>
+  <li>⏱️ Timing optimizations and tweaks</li>
+</ul>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 **📚 theodoc - Documentation Tool**
-- 📝 **Description**: Advanced documentation and organization system
-- 🛠️ **Tech Stack**: JavaScript, Node.js, Markdown
-- 📊 **Status**: 🟡 In Development
-- 🔗 **Links**: [Repository](https://github.com/skyrabbit4/theodoc)
-- ✨ **Features**: Ongoing improvements and experiments
-
-**🎯 Focus Areas:**
-- 🔧 Core functionality enhancements
-- 📖 Better documentation structure
-- ⚡ Performance optimizations
+<ul>
+  <li>📝 <b>Description</b>: Advanced documentation and organization system</li>
+  <li>🛠️ <b>Tech Stack</b>: JavaScript, Node.js, Markdown</li>
+  <li>📊 <b>Status</b>: 🟡 In Development</li>
+  <li>🔗 <b>Links</b>: <a href="https://github.com/skyrabbit4/theodoc">Repository</a></li>
+  <li>✨ <b>Features</b>: Ongoing improvements and experiments</li>
+</ul>
+<b>🎯 Focus Areas:</b>
+<ul>
+  <li>🔧 Core functionality enhancements</li>
+  <li>📖 Better documentation structure</li>
+  <li>⚡ Performance optimizations</li>
+</ul>
 
 </td>
 </tr>
@@ -189,7 +201,7 @@
 
 <table>
 <tr>
-<td align="center" width="20%">
+<td align="center" width="20%" valign="top">
 <h4>🎨 randoma11y</h4>
 <p><strong>Accessibility Tool</strong></p>
 <p>🛠️ JavaScript, A11y</p>
@@ -198,7 +210,7 @@
 <img src="https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github" />
 </a>
 </td>
-<td align="center" width="20%">
+<td align="center" width="20%" valign="top">
 <h4>🏎️ Formula1</h4>
 <p><strong>F1 Data App</strong></p>
 <p>🛠️ JavaScript, API</p>
@@ -207,7 +219,7 @@
 <img src="https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github" />
 </a>
 </td>
-<td align="center" width="20%">
+<td align="center" width="20%" valign="top">
 <h4>✂️ RockPaperScissor</h4>
 <p><strong>Classic Game</strong></p>
 <p>🛠️ JavaScript, DOM</p>
@@ -216,7 +228,7 @@
 <img src="https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github" />
 </a>
 </td>
-<td align="center" width="20%">
+<td align="center" width="20%" valign="top">
 <h4>📝 todo-app</h4>
 <p><strong>Task Manager</strong></p>
 <p>🛠️ JavaScript, LocalStorage</p>
@@ -225,7 +237,7 @@
 <img src="https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github" />
 </a>
 </td>
-<td align="center" width="20%">
+<td align="center" width="20%" valign="top">
 <h4>🎱 8-Ball Demo</h4>
 <p><strong>Interactive Preview</strong></p>
 <p>🛠️ TypeScript, Raycast</p>
@@ -242,25 +254,6 @@
 <div align="center">
 
 ### 📚 Current Learning Path
-
-</div>
-
-<table>
-<tr>
-<td width="33%">
-
-
-</td>
-<td width="33%">
-
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-
 
 </div>
 
@@ -303,7 +296,7 @@
 
 ### 💬 Open for Opportunities
 
-<p align="center">
+<p>
   <strong>🚀 Always interested in:</strong><br>
   💼 Exciting development opportunities | 🤝 Collaboration on open source projects<br>
   📚 Knowledge sharing | 🎯 Innovative tech discussions | ☕ Coffee chats about code
