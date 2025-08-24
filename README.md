@@ -92,39 +92,6 @@
 
 ---
 
-## 🏢 Professional Experience
-
-<div align="center">
-
-### ✈️ Boeing - Software Developer
-<i>Enterprise Application Development</i>
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Key Responsibilities** 💼
-<ul>
-  <li>🔧 Developing and maintaining enterprise-level applications</li>
-  <li>🌐 Building scalable web solutions using .NET and Angular</li>
-  <li>📊 Working with large datasets and complex business logic</li>
-  <li>🤝 Collaborating with cross-functional teams</li>
-  <li>🔍 Code reviews and quality assurance</li>
-</ul>
-
-</td>
-<td width="50%" valign="top">
-
-**Achievements & Impact** 🏆
-
-</td>
-</tr>
-</table>
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
