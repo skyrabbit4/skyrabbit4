@@ -35,7 +35,6 @@
 **Current Focus** 🔍
 - 🔥 Building robust .NET applications
 - 🅰️ Developing dynamic Angular frontends
-- 🚀 Exploring TypeScript and Node.js ecosystem
 - 🎯 Contributing to Raycast extensions
 - 📚 Learning cloud technologies and DevOps
 
@@ -85,14 +84,6 @@
 </tr>
 </table>
 
-### 🌟 Learning & Exploring
-<p align="center">
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-</p>
-
 </div>
 
 ---
@@ -121,11 +112,6 @@
 <td width="50%">
 
 **Achievements & Impact** 🏆
-- ⚡ Improved application performance and user experience
-- 🛠️ Implemented robust and maintainable code solutions
-- 📈 Contributing to mission-critical aviation software
-- 🎯 Focused on security and compliance standards
-- 🚀 Continuous learning and adaptation to new technologies
 
 </td>
 </tr>
@@ -262,33 +248,11 @@
 <table>
 <tr>
 <td width="33%">
-<h4>🚀 Short Term (2024)</h4>
 
-- ☑️ Master TypeScript advanced patterns
-- ☑️ Deep dive into Node.js ecosystem
-- ☑️ Contribute more to open source
-- ☑️ Learn React fundamentals
-- ☑️ Explore DevOps practices
 
 </td>
 <td width="33%">
-<h4>🎯 Medium Term (2025)</h4>
 
-- 🔲 Cloud technologies (AWS/Azure)
-- 🔲 Microservices architecture
-- 🔲 Container orchestration (K8s)
-- 🔲 Advanced system design
-- 🔲 Lead development projects
-
-</td>
-<td width="33%">
-<h4>🌟 Long Term (Beyond)</h4>
-
-- 🔲 Software architecture expertise
-- 🔲 Technical leadership roles
-- 🔲 Open source maintainer
-- 🔲 Community building
-- 🔲 Mentoring developers
 
 </td>
 </tr>
@@ -296,15 +260,7 @@
 
 <div align="center">
 
-### 🎓 Learning Focus Areas
 
-| Technology | Progress | Priority | Timeline |
-|:----------:|:--------:|:--------:|:--------:|
-| 🐍 Python | 🟡 Beginner | 🔥 High | Q1 2024 |
-| ☁️ AWS/Cloud | 🟡 Learning | 🔥 High | Q2 2024 |
-| ⚛️ React | 🟡 Learning | 🔥 High | Q1 2024 |
-| 🐳 Docker/K8s | 🟡 Exploring | 🟠 Medium | Q3 2024 |
-| 🦀 Rust | 🔴 Planned | 🟠 Medium | Q4 2024 |
 
 </div>
 
