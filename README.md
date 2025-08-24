@@ -211,17 +211,6 @@
 </td>
 </tr>
 </table>
-
----
-
-## 🎯 Learning Goals & Future Aspirations
-
-<div align="center">
-
-### 📚 Current Learning Path
-
-</div>
-
 ---
 
 ## 🤝 Connect With Me
