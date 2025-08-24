@@ -109,8 +109,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=skyrabbit4&theme=tokyonight" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=skyrabbit4&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph" />
-
 </div>
 
 ---
