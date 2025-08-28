@@ -162,56 +162,6 @@
 </tr>
 </table>
 
-### 🛠️ Project Portfolio
-
-<table>
-<tr>
-<td align="center" width="20%" valign="top">
-<h4>🎨 randoma11y</h4>
-<p><strong>Accessibility Tool</strong></p>
-<p>🛠️ JavaScript, A11y</p>
-<p>📊 🟢 Complete</p>
-<a href="https://github.com/skyrabbit4/randoma11y">
-<img src="https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github" />
-</a>
-</td>
-<td align="center" width="20%" valign="top">
-<h4>🏎️ Formula1</h4>
-<p><strong>F1 Data App</strong></p>
-<p>🛠️ JavaScript, API</p>
-<p>📊 🟢 Complete</p>
-<a href="https://github.com/skyrabbit4/Formula1">
-<img src="https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github" />
-</a>
-</td>
-<td align="center" width="20%" valign="top">
-<h4>✂️ RockPaperScissor</h4>
-<p><strong>Classic Game</strong></p>
-<p>🛠️ JavaScript, DOM</p>
-<p>📊 🟢 Complete</p>
-<a href="https://github.com/skyrabbit4/RockPaperScissor">
-<img src="https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github" />
-</a>
-</td>
-<td align="center" width="20%" valign="top">
-<h4>📝 todo-app</h4>
-<p><strong>Task Manager</strong></p>
-<p>🛠️ JavaScript, LocalStorage</p>
-<p>📊 🟢 Complete</p>
-<a href="https://github.com/skyrabbit4/todo-app">
-<img src="https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github" />
-</a>
-</td>
-<td align="center" width="20%" valign="top">
-<h4>🎱 8-Ball Demo</h4>
-<p><strong>Interactive Preview</strong></p>
-<p>🛠️ TypeScript, Raycast</p>
-<p>📊 🟡 In Progress</p>
-<img src="assets/8ball-demo.gif" width="100%" alt="8 Ball Demo" />
-</td>
-</tr>
-</table>
----
 
 ## 🤝 Connect With Me
 
