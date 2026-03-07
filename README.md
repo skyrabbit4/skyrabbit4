@@ -96,11 +96,14 @@
 
 <div align="center">
 
-| **GitHub Stats** | **Top Languages** |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=skyrabbit4&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="195px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyrabbit4&layout=compact&theme=tokyonight" alt="Top Languages" height="195px" /> |
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=skyrabbit4&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=skyrabbit4&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=skyrabbit4&theme=tokyonight" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skyrabbit4&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 </div>
 
