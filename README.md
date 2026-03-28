@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 # Hi there! 👋 I'm Shubham Kaushik
 
 ### 🚀 Software Developer | 💼 Boeing | 🌟 Open Source Enthusiast
@@ -111,25 +111,19 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-### 🎯 Current Focus
-
-</div>
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
 **🎱 Raycast – 8 Ball Extension**
 <ul>
-  <li>📝 <b>Description</b>: Interactive 8-ball decision maker for Raycast</li>
-  <li>🛠️ <b>Tech Stack</b>: TypeScript, React, Raycast API</li>
-  <li>📊 <b>Status</b>: 🟢 Active Development</li>
-  <li>🔗 <b>Links</b>: <a href="https://github.com/raycast/extensions/pull/20947">PR #20947</a></li>
-  <li>✨ <b>Features</b>: Default action on Enter, Copy/Paste functionality</li>
+  <li>📝 <strong>Description</strong>: Interactive 8-ball decision maker for Raycast</li>
+  <li>🛠️ <strong>Tech Stack</strong>: TypeScript, React, Raycast API</li>
+  <li>📊 <strong>Status</strong>: 🟢 Active Development</li>
+  <li>🔗 <strong>Links</strong>: <a href="https://github.com/raycast/extensions/pull/20947">PR #20947</a></li>
+  <li>✨ <strong>Features</strong>: Default action on Enter, Copy/Paste functionality</li>
 </ul>
-<b>🏃‍♂️ Currently Working On:</b>
+<strong>🏃‍♂️ Currently Working On:</strong>
 <ul>
   <li>🎨 Small UX polish and improvements</li>
   <li>📚 History tracking features</li>
@@ -141,13 +135,13 @@
 
 **📚 theodoc - Documentation Tool**
 <ul>
-  <li>📝 <b>Description</b>: Advanced documentation and organization system</li>
-  <li>🛠️ <b>Tech Stack</b>: JavaScript, Node.js, Markdown</li>
-  <li>📊 <b>Status</b>: 🟡 In Development</li>
-  <li>🔗 <b>Links</b>: <a href="https://github.com/skyrabbit4/theodoc">Repository</a></li>
-  <li>✨ <b>Features</b>: Ongoing improvements and experiments</li>
+  <li>📝 <strong>Description</strong>: Advanced documentation and organization system</li>
+  <li>🛠️ <strong>Tech Stack</strong>: JavaScript, Node.js, Markdown</li>
+  <li>📊 <strong>Status</strong>: 🟡 In Development</li>
+  <li>🔗 <strong>Links</strong>: <a href="https://github.com/skyrabbit4/theodoc">Repository</a></li>
+  <li>✨ <strong>Features</strong>: Ongoing improvements and experiments</li>
 </ul>
-<b>🎯 Focus Areas:</b>
+<strong>🎯 Focus Areas:</strong>
 <ul>
   <li>🔧 Core functionality enhancements</li>
   <li>📖 Better documentation structure</li>
@@ -158,6 +152,7 @@
 </tr>
 </table>
 
+---
 
 ## 🤝 Connect With Me
 
